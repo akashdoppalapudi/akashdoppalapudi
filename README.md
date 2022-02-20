@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **several projects**
 
-- 🌱 I’m currently learning **backend development with .NET**
+- 🌱 I’m currently learning **backend development with .NET nd frontend with HTML+CSS+JS**
 
 - 👨‍💻 All of my projects are available at [https://akashdoppalapudi.vercel.app](https://akashdoppalapudi.vercel.app)
 
